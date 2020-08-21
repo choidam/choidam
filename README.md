@@ -1,16 +1,13 @@
-### Hi there 👋
+## I am `Choi Dam`
 
-<!--
-**choidam/choidam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Email : cheunji8209@gmail.com    
+- Blog : https://silver-g-0114.tistory.com/
 
-Here are some ideas to get you started:
+### 🏆 Prize
+- 스마트 서울 모바일 앱 공모전 '[TripBus](https://www.youtube.com/watch?v=CJxPv1F5O9w)' 입상 
+- 한이음 공모전 '[CLAJEW : 블록체인을 활용한 자산 유동화](https://github.com/hanium-blockchain/clajwe)' 입상
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤟 Activity
+- SOPT 25기 (2019.09 ~ 2020.01)
+- 2020 Naver Summer HackDay (2020.05.20 ~ 05.21)
+- Depromeet 8기 (2020.08 ~ )
