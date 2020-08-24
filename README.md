@@ -4,8 +4,9 @@
 - Blog : https://silver-g-0114.tistory.com/
 
 ### 🏆 Prize
-- 스마트 서울 모바일 앱 공모전 '[TripBus](https://www.youtube.com/watch?v=CJxPv1F5O9w)' 입상 
-- 한이음 공모전 '[CLAJEW : 블록체인을 활용한 자산 유동화](https://github.com/hanium-blockchain/clajwe)' 입상
+- 스마트 서울 모바일 앱 공모전 [TripBus](https://www.youtube.com/watch?v=CJxPv1F5O9w) 입상 
+- 한이음 공모전 [CLAJEW : 블록체인을 활용한 자산 유동화](https://github.com/hanium-blockchain/clajwe) 입상
+- 2020 Venture Start-up 경진대회 '[Cozy: 독립서점 플랫폼](https://github.com/OurCozy/cozy-iOS)' 대상 🎉
 
 ### 🤟 Activity
 - SOPT 25기 (2019.09 ~ 2020.01)
