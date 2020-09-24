@@ -1,14 +1,10 @@
 ## I am `Choi Dam`
 
-- Email : cheunji8209@gmail.com    
-- Tech Blog : https://silver-g-0114.tistory.com/
+<div align=center>
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://silver-g-0114.tistory.com/)](https://silver-g-0114.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheunji8209@gmail.com)](mailto:cheunji8209@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%8B%B4-%EC%B5%9C-9936751b7/)](https://www.linkedin.com/in/%EB%8B%B4-%EC%B5%9C-9936751b7/)
 
-### 🏆 Prize
-- 스마트 서울 모바일 앱 공모전 [TripBus](https://www.youtube.com/watch?v=CJxPv1F5O9w) 입상 
-- 한이음 공모전 [CLAJEW : 블록체인을 활용한 자산 유동화](https://github.com/hanium-blockchain/clajwe) 입상
-- 2020 Venture Start-up 경진대회 [Cozy: 독립서점 플랫폼](https://github.com/OurCozy/cozy-iOS) 대상 🎉
+</div>
 
-### 🤟 Activity
-- SOPT 25기 (2019.09 ~ 2020.01)
-- 2020 Naver Summer HackDay (2020.05.20 ~ 05.21)
-- Depromeet 8기 (2020.08 ~ )
+- cozy 가 [앱스토어](https://apps.apple.com/kr/app/cozy/id1532862833)에 출시되었어요 🎉
+  
