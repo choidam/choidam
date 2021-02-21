@@ -7,4 +7,3 @@
 </div>
 
 - cozy 가 [앱스토어](https://apps.apple.com/kr/app/cozy/id1532862833)에 출시되었어요 🎉
-- [resume](https://www.notion.so/Choidam-a49e948728d24039bc858bd3fb3c66af) 👈 click❗️
